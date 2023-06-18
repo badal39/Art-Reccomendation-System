@@ -1,5 +1,5 @@
 ## Ignore Folder
-DATA/Baroque/
+# DATA/Baroque/
 
 ## Ignore Files
 Pipfile
