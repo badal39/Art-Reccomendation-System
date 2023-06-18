@@ -4,6 +4,6 @@ DATA/Baroque/
 ## Ignore Files
 Pipfile
 
-data/final_features.npy
+# DATA/final_features.npy
 
 Pipfile.lock
