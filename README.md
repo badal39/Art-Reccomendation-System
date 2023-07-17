@@ -36,9 +36,26 @@ The Baroque-inspired Art Recommendation System showcases the power of combining 
 ## Installation
 To run the Baroque-inspired Art Recommendation System, follow these steps:
 
-1. Clone the repository: 
-2. Create a virtual environment: 
-3. Install the required dependencies:
+1. Clone the repository:
+
+   git clone https://github.com/badal39/Art-Reccomendation-System.git
+
+3. Create a virtual environment:
+
+   python -m venv env
+
+5. Activate the virtual environment:
+
+# For Windows
+env\Scripts\activate
+
+# For Linux/Mac
+source env/bin/activate
+
+4. Install the required dependencies:
+
+    pip install -r requirements.txt
+
    
 ## Usage
 1. Run the Streamlit app: streamlit run App.py
