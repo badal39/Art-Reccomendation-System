@@ -2,6 +2,15 @@
 
 The Baroque-inspired Art Recommendation System is an advanced recommendation system developed using Python and Streamlit. It combines the power of BERT for text feature extraction and utilizes ResNet-50 for image feature extraction. By merging these features, the system creates a unique representation for personalized art recommendations, enabling a holistic approach to personalized art suggestions.
 
+## Demo Images
+
+Here are some demo images for the project:
+
+![Image 1](https://github.com/badal39/Art-Reccomendation-System/blob/main/IMAGES/img1.png)
+![Image 2](https://github.com/badal39/Art-Reccomendation-System/blob/main/IMAGES/img2.png)
+![Image 3](https://github.com/badal39/Art-Reccomendation-System/blob/main/IMAGES/img3.png)
+![Image 4](https://github.com/badal39/Art-Reccomendation-System/blob/main/IMAGES/img4.png)
+
 ## Features
 - Text feature extraction using Transformers and BERT.
 - Image feature extraction using ResNet-50.
